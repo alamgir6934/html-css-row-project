@@ -71,7 +71,7 @@ p {
     color: burlywood;
     margin-top: 70px;
     margin-bottom: 124px;
-    padding-bottom: 30px;
+    padding-bottom: 120px;
 }
 
 /* .botom-border {
@@ -149,16 +149,6 @@ input[type=submit]:hover {
     background-color: rgba(212, 125, 10, 0.205);
     margin: 40px 410px;
 
-    /* height: 22vh;
-    width: 40%;
-    margin-top: 32px;
-    margin-left: 28%;
-    margin-right: 5%;
-    padding-left: 21px;
-    border-radius: 10px;
-    box-shadow: 10px 10px 40px grey;
-    text-align: center;
-    background-color: antiquewhite; */
 }
 
 #pwd {
@@ -194,6 +184,7 @@ footer {
     margin-left: 65px;
     border-radius: 5px;
     height: 190px;
+    margin-bottom: 10px;
 }
 
 /* end of footer */
